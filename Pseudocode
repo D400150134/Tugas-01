@@ -1,0 +1,5 @@
+Variable a,b dan c
+D= (b^2)-(4*a*c)
+D>0 if yes x1 = (-b+ sqrt D)/2*a  x2 = (-b - sqrt D)/2*a
+D=0 if yes x1 = -b/2*a x2=x1 if no=runtime error
+output = x1,x2
